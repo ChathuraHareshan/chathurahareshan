@@ -19,20 +19,16 @@
 
 <br/>
 
-<!-- Profile views + followers + stars -->
-<img src="https://komarev.com/ghpvc/?username=Chathura Hareshan&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Chathura Hareshan?label=Followers&style=for-the-badge&logo=github&color=302b63" alt="followers"/>
-<img src="https://img.shields.io/github/stars/Chathura Hareshan?label=Stars&style=for-the-badge&logo=github&color=0f0c29" alt="stars"/>
-
 <br/><br/>
 
 <!-- Social links -->
-<a href="https://linkedin.com/in/Chathura Hareshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/Chathura Hareshan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="www.linkedin.com/in/chathura-hareshan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 <a href="https://youtube.com/@Chathura Hareshan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://instagram.com/Chathura Hareshan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://dev.to/Chathura Hareshan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<a href="https://dev.to/chathurahareshan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+
+<a href="mailto:chathura.hareshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
@@ -51,12 +47,12 @@
 
 ```js
 const me = {
-  name: "YOUR NAME",
+  name: "Chathura Hareshan Karunarathna",
   role: "Full-Stack Developer",
   location: "Sri Lanka 🇱🇰",
   currentlyLearning: ["Rust", "System Design", "AI/ML"],
   currentlyBuilding: "Something awesome 🚀",
-  askMeAbout: ["React", "Node.js", "Python", "DevOps"],
+  askMeAbout: ["React", "Node.js", "Python", "DevOps", "SpringBoot"],
   funFact: "I debug with print statements and I'm not sorry 😎",
   lookingFor: "Collaborations & open-source projects"
 };
@@ -74,12 +70,6 @@ const me = {
 
 <br/>
 
-<!-- Quick bullets -->
-- 🔭 I'm currently working on **an exciting side project**
-- 🌱 I'm currently learning **new technologies every day**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **web development, APIs, and clean architecture**
-- ⚡ Fun fact: **I never stop building**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
@@ -161,93 +151,9 @@ const me = {
 </picture>
 </div>
 
-<!-- (Snake needs the workflow shown at the very bottom of this file) -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/Chathura Hareshan/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project One"/>
-</a>
-<a href="https://github.com/Chathura Hareshan/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Two"/>
-</a>
-
-<a href="https://github.com/Chathura Hareshan/project-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-three&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Three"/>
-</a>
-<a href="https://github.com/Chathura Hareshan/project-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-four&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Four"/>
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>📂 Click to see more project details</b></summary>
-<br/>
-
-| Project | Description | Stack | Status |
-|:--|:--|:--|:--:|
-| 🌐 **Project One** | Short description of what it does | `React` `Node.js` `MongoDB` | ✅ Live |
-| 📱 **Project Two** | Short description of what it does | `Flutter` `Firebase` | 🚧 In progress |
-| 🤖 **Project Three** | Short description of what it does | `Python` `FastAPI` `Docker` | ✅ Live |
-| 🛒 **Project Four** | Short description of what it does | `Next.js` `Stripe` `Postgres` | 🧪 Beta |
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-<!-- ===================== SKILL BARS ===================== -->
-<h2 align="center">🎯 Skill Levels</h2>
-
-<div align="center">
-
-| Skill | Level |
-|:--|:--|
-| **JavaScript / TypeScript** | ![](https://geps.dev/progress/90) |
-| **React / Next.js** | ![](https://geps.dev/progress/85) |
-| **Node.js / APIs** | ![](https://geps.dev/progress/80) |
-| **Python** | ![](https://geps.dev/progress/75) |
-| **Databases (SQL / NoSQL)** | ![](https://geps.dev/progress/78) |
-| **Docker / DevOps** | ![](https://geps.dev/progress/65) |
-| **UI / UX Design** | ![](https://geps.dev/progress/70) |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-<!-- ===================== ROADMAP ===================== -->
-<h2 align="center">🗺️ 2026 Goals</h2>
-
-- [x] Ship 3 personal projects
-- [x] Contribute to open source
-- [ ] Learn Rust deeply
-- [ ] Build & launch a SaaS product
-- [ ] Write 12 technical blog posts
-- [ ] Speak at a developer meetup
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-<!-- ===================== QUOTE + JOKE ===================== -->
-<div align="center">
-
-<h2>💭 Daily Dev Quote</h2>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
-
-<h2>😄 Random Dev Joke</h2>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random joke"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <!-- ===================== SUPPORT / CONNECT ===================== -->
 <h2 align="center">🤝 Let's Connect</h2>
@@ -274,40 +180,4 @@ const me = {
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
-<!--
-============================================================
- OPTIONAL: ANIMATED SNAKE WORKFLOW
- Create the file  .github/workflows/snake.yml  in your profile repo
- with the content below (remove the comment markers), then run it
- once from the Actions tab.
-============================================================
 
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-============================================================
--->

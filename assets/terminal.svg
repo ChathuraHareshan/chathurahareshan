@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="100%" stop-color="#1b1747"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#24c6dc"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Fira Code', 'Courier New', monospace; font-size: 15px; }
+      .p { fill: #24c6dc; }
+      .c { fill: #ffffff; }
+      .o { fill: #a78bfa; }
+      .g { fill: #4ade80; }
+      .l { opacity: 0; animation: show 0.01s forwards; }
+      .l1 { animation-delay: 0.5s; }
+      .l2 { animation-delay: 1.5s; }
+      .l3 { animation-delay: 2.2s; }
+      .l4 { animation-delay: 3.2s; }
+      .l5 { animation-delay: 3.9s; }
+      .l6 { animation-delay: 4.6s; }
+      .l7 { animation-delay: 5.6s; }
+      .l8 { animation-delay: 6.3s; }
+      @keyframes show { to { opacity: 1; } }
+      .cursor { animation: blink 1s steps(1) infinite; fill: #24c6dc; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .glow { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: .9; } }
+      .scan { animation: scan 4s linear infinite; }
+      @keyframes scan { from { transform: translateY(0); } to { transform: translateY(260px); } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="298" rx="12" fill="url(#bg)" stroke="url(#bar)" stroke-width="2" class="glow"/>
+  <rect x="1" y="1" width="758" height="34" rx="12" fill="#00000055"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="18" r="6" fill="#27c93f"/>
+  <text x="300" y="23" class="o" style="font-size:12px">chathura@dev: ~/portfolio</text>
+
+  <rect x="2" y="36" width="756" height="2" fill="#24c6dc" opacity=".25" class="scan"/>
+
+  <g class="l l1"><text x="24" y="66"><tspan class="p">$</tspan> <tspan class="c">whoami</tspan></text></g>
+  <g class="l l2"><text x="24" y="90" class="g">Chathura Karunarathna — Full-Stack Developer</text></g>
+
+  <g class="l l3"><text x="24" y="120"><tspan class="p">$</tspan> <tspan class="c">cat stack.json</tspan></text></g>
+  <g class="l l4"><text x="24" y="144" class="o">{ "frontend": ["React","Next.js","Vue"],</text></g>
+  <g class="l l5"><text x="24" y="166" class="o">  "backend":  ["Node","Spring Boot","FastAPI"],</text></g>
+  <g class="l l6"><text x="24" y="188" class="o">  "infra":    ["Docker","K8s","AWS","CI/CD"] }</text></g>
+
+  <g class="l l7"><text x="24" y="222"><tspan class="p">$</tspan> <tspan class="c">git commit -m "ship something great"</tspan></text></g>
+  <g class="l l8"><text x="24" y="246" class="g">✔ build passed · 0 errors · deployed 🚀</text></g>
+  <g class="l l8"><text x="24" y="276"><tspan class="p">$</tspan></text><rect x="40" y="263" width="9" height="16" class="cursor"/></g>
+</svg>

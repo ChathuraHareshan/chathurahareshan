@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=Chathura%20Karunarathna&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/> 
+
+
 <a href="https://github.com/chathurahareshan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=24C6DC&center=true&vCenter=true&width=720&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Chathura+Karunarathna;%F0%9F%9A%80+I+build+for+the+web+%26+beyond;%E2%9A%A1+Turning+coffee+into+clean+code;%F0%9F%A4%96+Exploring+AI%2FML+%26+System+Design" alt="typing"/>
 </a>
@@ -12,7 +15,10 @@
 <a href="https://dev.to/chathurahareshan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
 <a href="mailto:chathura.hareshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=chathurahareshan&color=24c6dc&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/> 
+
+
 
 </div>
 
@@ -24,6 +30,9 @@
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/> 
+
 
 <!-- ===== ABOUT ===== -->
 <h2 align="center">✨ About Me</h2>
@@ -40,7 +49,13 @@ const chathura = {
 } as const;
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/> <!-- ===================== TECH STACK ===================== --> <h2 align="center">🛠️ Tech Stack & Tools</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Languages+%E2%80%A2+Frameworks+%E2%80%A2+Databases+%E2%80%A2+Cloud;Always+learning.+Always+shipping." alt="stack typing"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/> 
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2> 
+
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Languages+%E2%80%A2+Frameworks+%E2%80%A2+Databases+%E2%80%A2+Cloud;Always+learning.+Always+shipping." alt="stack typing"/>
 
 <br/><br/>
 

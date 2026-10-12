@@ -10,7 +10,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=CHATHURA%20KARUNARATHNA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=Chathura%20Karunarathna&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Chathura Hareshan">

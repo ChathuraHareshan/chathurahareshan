@@ -1,16 +1,7 @@
-<!-- ============================================================
-  HOW TO USE
-  1. Create a public repo named EXACTLY your GitHub username (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME)
-  2. Put this file in it as README.md
-  3. Find & replace:  YOUR_USERNAME  ->  your GitHub username
-                      YOUR NAME      ->  your real name
-  4. (Optional) Add the snake workflow at the bottom of this file
-============================================================ -->
 
-<!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=CHATHURA HARESHAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/YOUR_USERNAME">

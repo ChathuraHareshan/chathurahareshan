@@ -40,19 +40,24 @@ const chathura = {
 } as const;
 ```
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/> <!-- ===================== TECH STACK ===================== --> <h2 align="center">🛠️ Tech Stack & Tools</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Languages+%E2%80%A2+Frameworks+%E2%80%A2+Databases+%E2%80%A2+Cloud;Always+learning.+Always+shipping." alt="stack typing"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,go,rust,php,bash&perline=9" alt="languages"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,nodejs,express,nestjs,spring,django,fastapi&perline=11" alt="frameworks"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,prisma,docker,kubernetes,aws,linux,nginx,githubactions,git&perline=13" alt="infra"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,notion,jira&perline=6" alt="tools"/>
+💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,go,rust,php,dart,kotlin,swift,bash&perline=13" alt="languages"/>
+🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,angular,svelte,tailwind,bootstrap,vite,webpack&perline=12" alt="frontend"/>
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,graphql&perline=9" alt="backend"/>
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma&perline=8" alt="databases"/>
+☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions,git,github,vercel,netlify&perline=12" alt="devops"/>
+🧰 Tools & Design
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,figma,photoshop,illustrator,notion,jira,discord&perline=10" alt="tools"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/> <!-- ===================== GITHUB STATS ===================== --> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff&langs_count=8" alt="Top languages"/> <br/> <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=a78bfa&currStreakLabel=24c6dc" alt="GitHub streak"/>
 
-</div>
+<br/><br/>
 
 <h2 align="center">🧬 Currently Exploring</h2>
 

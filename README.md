@@ -10,11 +10,11 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=CHATHURA%20KARUNARATHNA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Chathura Hareshan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+YOUR+NAME;%F0%9F%9A%80+I+build+things+for+the+web+%26+beyond;%E2%9A%A1+Turning+coffee+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+CHATHURA+KARUNARATHNA;%F0%9F%9A%80+I+build+things+for+the+web+%26+beyond;%E2%9A%A1+Turning+coffee+into+clean+code" alt="Typing SVG" />
 </a>
 
 <br/>

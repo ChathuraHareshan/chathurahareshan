@@ -1,28 +1,37 @@
+<!-- ============================================================
+  HOW TO USE
+  1. Create a public repo named EXACTLY your GitHub username (e.g. github.com/Chathura Hareshan/Chathura Hareshan)
+  2. Put this file in it as README.md
+  3. Find & replace:  Chathura Hareshan  ->  your GitHub username
+                      YOUR NAME      ->  your real name
+  4. (Optional) Add the snake workflow at the bottom of this file
+============================================================ -->
 
+<!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=CHATHURA HARESHAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="header banner"/>
 
 <!-- Typing animation -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Chathura Hareshan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+YOUR+NAME;%F0%9F%9A%80+I+build+things+for+the+web+%26+beyond;%E2%9A%A1+Turning+coffee+into+clean+code" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile views + followers + stars -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=302b63" alt="followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&logo=github&color=0f0c29" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=Chathura Hareshan&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Chathura Hareshan?label=Followers&style=for-the-badge&logo=github&color=302b63" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Chathura Hareshan?label=Stars&style=for-the-badge&logo=github&color=0f0c29" alt="stars"/>
 
 <br/><br/>
 
 <!-- Social links -->
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://youtube.com/@YOUR_USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://dev.to/YOUR_USERNAME"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+<a href="https://linkedin.com/in/Chathura Hareshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/Chathura Hareshan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://youtube.com/@Chathura Hareshan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://instagram.com/Chathura Hareshan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://dev.to/Chathura Hareshan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
@@ -116,17 +125,17 @@ const me = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chathura Hareshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura Hareshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff&langs_count=8" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=a78bfa&currStreakLabel=24c6dc" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=Chathura Hareshan&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=a78bfa&currStreakLabel=24c6dc" alt="GitHub streak"/>
 
 <br/><br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Chathura Hareshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -136,7 +145,7 @@ const me = {
 <h3 align="center">📈 Contribution Activity</h3>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=24c6dc&line=a78bfa&point=ffffff&area=true&area_color=302b63" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chathura Hareshan&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=24c6dc&line=a78bfa&point=ffffff&area=true&area_color=302b63" width="100%" alt="activity graph"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
@@ -146,9 +155,9 @@ const me = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chathura Hareshan/Chathura Hareshan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chathura Hareshan/Chathura Hareshan/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Chathura Hareshan/Chathura Hareshan/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 
@@ -161,18 +170,18 @@ const me = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project One"/>
+<a href="https://github.com/Chathura Hareshan/project-one">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project One"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Two"/>
+<a href="https://github.com/Chathura Hareshan/project-two">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Two"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/project-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-three&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Three"/>
+<a href="https://github.com/Chathura Hareshan/project-three">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-three&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Three"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME/project-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-four&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Four"/>
+<a href="https://github.com/Chathura Hareshan/project-four">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathura Hareshan&repo=project-four&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa" alt="Project Four"/>
 </a>
 
 </div>
@@ -252,7 +261,7 @@ const me = {
 <a href="mailto:you@example.com">
   <img src="https://img.shields.io/badge/Send%20me%20an%20email-24c6dc?style=for-the-badge&logo=gmail&logoColor=white" alt="email me"/>
 </a>
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<a href="https://www.buymeacoffee.com/Chathura Hareshan">
   <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="coffee"/>
 </a>
 

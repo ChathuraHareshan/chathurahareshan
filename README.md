@@ -18,6 +18,15 @@
 
 </div>
 
+<!-- ===== ANIMATED TERMINAL ===== -->
+<div align="center">
+  <img src="assets/terminal.svg" width="760" alt="animated terminal"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
 <h2 align="center">✨ About Me</h2>
 
 ```ts

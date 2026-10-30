@@ -12,6 +12,7 @@
 
 <a href="https://www.linkedin.com/in/chathura-hareshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://dev.to/chathurahareshan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+<a href="https://www.youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="mailto:chathura.hareshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
@@ -99,18 +100,12 @@ const chathura = {
   Deploy your OWN copy (see instructions) and replace YOUR-VERCEL-APP below with your Vercel domain.
 -->
 <p align="center">
-  <img height="180" src="https://YOUR-VERCEL-APP.vercel.app/api?username=chathurahareshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa&text_color=ffffff&count_private=true" alt="stats"/>
-  <img height="180" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=chathurahareshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff&langs_count=8" alt="top langs"/>
+  <img height="180" src="https://github-readme-stats-7rel8ib0k-chathurahareshan1432-8764.vercel.app/api?username=chathurahareshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=a78bfa&text_color=ffffff&count_private=true" alt="stats"/>
+  <img height="180" src="https://github-readme-stats-7rel8ib0k-chathurahareshan1432-8764.vercel.app/api/top-langs/?username=chathurahareshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff&langs_count=8" alt="top langs"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=chathurahareshan&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=a78bfa&currStreakLabel=24c6dc" alt="streak"/>
-</p>
-
-<h3 align="center">📈 Contribution Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathurahareshan&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=24c6dc&line=a78bfa&point=ffffff&area=true&area_color=302b63" width="100%" alt="activity graph"/>
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
